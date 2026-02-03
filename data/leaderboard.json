@@ -1,1 +1,5 @@
 
+[
+  { "name": "Student A", "score": 80 },
+  { "name": "Student B", "score": 70 }
+]
